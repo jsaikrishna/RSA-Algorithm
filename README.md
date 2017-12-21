@@ -7,4 +7,4 @@ In this project we Implemented different Types of RSA which include
   d) Multi-power Algorithm
   e) Rebalanced RSA Algorithm
 
-We have implemented the algorithms in Java and vaiours comparisions were made wrt Decryption time VS Variants of RSA and Total Memory Consumed Vs Variants of RSA
+We have implemented the algorithms in Java and vaiours comparisions were made with respect to Decryption time VS Variants of RSA,Total Memory Consumed Vs Variants of RSA, Total time Vs Variants of RSA
